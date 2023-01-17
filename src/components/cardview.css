@@ -1,0 +1,31 @@
+.cardview_infocard{
+    display: grid;
+    place-items: center;
+}
+
+.cardview_center{
+    height: 90vh;
+    width: 90vh;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    padding: 30px;
+    background-color: white;
+    border-radius: 20px;
+    margin-bottom: 50px;
+}
+
+.cardview_center>img{
+    height: 500px;
+    object-fit: contain;
+}
+
+.cardview_center>h1{
+    font-weight: 600;
+    font-size: 50px;
+    margin-top: 30px;
+}
+
+.cardview_center>p{
+    margin-top: 20px;
+}

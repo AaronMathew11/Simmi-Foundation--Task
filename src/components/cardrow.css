@@ -1,0 +1,17 @@
+.cardRow{
+    display: flex;
+    margin-left: 30px;
+    margin-top: 40px;
+    justify-content: space-evenly;
+    padding-bottom: 40px;
+}
+
+@media screen and (max-width: 1059px) {
+    .cardRow{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
+  }

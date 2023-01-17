@@ -1,0 +1,88 @@
+{
+    "banner":[
+    {"image":"https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3VpdGFyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60", "title":"A music LOVER!", "description": "Ive always enjoyed listening and playing music. As a musician i can play the acoustic and bass guitars, the keyboard and a bit of the drum... My taste in music is mostly pop and jazz...."},
+    {"image":"https://images.unsplash.com/photo-1496412705862-e0088f16f791?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTh8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60", "title":"A Real FOODIE!", "description": "I may not look like it.. but Im a huge foodie.... there is nothing more romantic than italian food ; ) "},
+    {"image":"https://images.unsplash.com/photo-1519861531473-9200262188bf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YmFza2V0YmFsbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60", "title":"Basketball forever", "description": "Ive been playing basketball ever since I was in my 6th grade.. I love getting out on the court and playing with my friends... makes me feel alive"}
+],
+"card":[
+    {
+        "id":"1",
+        "title": "Design Coordinator at Gravitas",
+        "brief": "The annual techno-management knowledge carnival of VIT, “graVITas” attracts students from India and Abroad. It provides a platform to display their spectacular talents and innovations.",
+        "time": "September 2022",
+        "image" : "https://images.shiksha.com/mediadata/images/articles/1608503524phposE2WZ.jpeg",
+        "long": "The annual techno-management knowledge carnival of VIT, “graVITas” attracts students from India and Abroad. It provides a platform to display their spectacular talents and innovations. The 13th Edition of graVITas is scheduled from 30th September to 2nd October. This year, graVITas will entertain and enrich the technological skills of the students and the researchers by having a plethora of innovative events in every avenue of engineering coupled with MEGATHON (Non-stop prototype/code / idea-making competition), Workshops, and Seminars. The theme “innoVate-Iterate-implemenT” of this year's extravaganza is the objective of inspiring the student community to develop a product for solving real-world problems and challenges."
+    },
+    {
+        "id":"2",
+        "title": "Sales Coordinator at Rivera",
+        "brief": "Riviera is the Annual International Sports and Cultural Carnival of the Vellore Institute of Technology. It is an International 4-day event that consists of sports competitions, social and cultural events along with concerts.",
+        "time": "Febuary 2023",
+        "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/1mllob/article26274649.ece/alternates/FREE_1200/15THVITRIVIERA1",
+        "long" : "The cultural festival has come a long way from its humble beginnings. It was first introduced by the VIT Chancellor, Dr. G. Viswanathan. The first edition of Riviera was in the year 2002 and was a success with a wide range of events in all cultural spheres including music, dance, drama, literary events and more. Sports competitions were also part of this first festival. It saw a fair amount of external participants which would grow in the years to come.[6] It would also be included on the list of the Top 10 Cultural Festivals in India.[7][8] Started to provide an alternative to the students from strenuous academics, it evolved into something that would draw in crowds from most colleges and schools around the region. The students were meant to gain basic organizational experience to prepare them for similar situations in the real world. The festival grew by immense proportions, from having a budget of a few lakhs to a few crores for instance, that the students had to keep raising the bar to meet the different challenges with each new Riviera."
+    },
+    {
+        "id":"3",
+        "title": "UI/UX Designer at GDSC",
+        "brief": "Google Developer Student Clubs are university based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome",
+        "time" : "2022-2024",
+        "image": "https://gdscutsa.com/assets/images/banner.webp",
+        "long" : "Google Developer Student Club is a university-based community group for students who are interested in technology,especially technology from Google. Google Developer Student is a place to grow as a developer, starting from a beginner developer to an advanced developer. Google Developer Student Club is not always about “programming” but also about connecting, learning together and growing together. Google Developer Student Club as a community that becomes a connection forum for students who are interested in technology from various majors and have different backgrounds. GDSC is a place for learning together with people who have the same interest in the field, which certainly makes the learning process more interesting"
+    }
+],
+"experience":[
+    {
+        "position": "Vice Chair (Board Member)",
+        "place": "Iothinc-VIT",
+        "brief": "Iothinc aims to provide a platform for students to explore and build incredible things using Internet of Things. As the vice chair for 2023-2024 my responsibility would be to oversee and ensure the smooth functioning of the club as a whole, managing events and coordinating technical and non-technical activites. Our community has 400+ members",
+        "Skills": "Adobe XD , Adobe After Effects, Illustrator, Leadership"
+    },
+    {
+        "position": "Technical head (Board Member)",
+        "place": "ISA (International Society of Automation)",
+        "brief": "ISA-VIT is a student chapter of the International Society of Automation. I was chosen as the technical head of the VIT Vellore branch for the tenure 2022-2023 and look forward to be a successful leader and guide to my juniors to come As a part of the App dev team I have a lot and worked on some projects like ISA Gravitas App. As a UI/UX designer I have enjoyed many design team projects which include team building UI/UX projects like Tripsky (an app that facillitates travel and vacation planning), Covision (A personal Covid Helpdesk (app)), Discord Bot website, ML website etc",
+        "Skills": "Figma, Photoshop, Android Development, Leadership"
+    },
+    {
+        "position": "UI/UX Designer (Internship)",
+        "place": "UI/UX Designer (Internship)",
+        "brief": "Engineers Cradle is an online Engineering community helping to build better engineering graduates from tier 3 cities by providing all the resources and connectivity as per their career goals. As a UI/UX designer , my role is to work with the design team on the Design of the app and the website for Engineers Cradle. Got a chance to work with User flows, User identification and research, Wireframing, Prototyping etc",
+        "Skills": "Work ethics, Team work and working on deadlines"
+    },
+    {
+        "position": "UI/UX Designer (Internship)",
+        "place": "Ascendance",
+        "brief": "Ascendance is a VIT startup , a group of driven and talented individuals who have resolved to use their skills to create innovative and provide expertise in the tech industry. As a UI/UX designer , my role was to work with the development team on the Design of websites and apps that we get as requests from various clients. I really loved the innovative experience",
+        "Skills": "Work ethics, Team work and working on deadlines"
+    },
+    {
+        "position": "Core Committee Member",
+        "place": "GDSC VIT (Google developers Club VIT)",
+        "brief": "Google Developer Student Clubs are university based community groups for students interested in Google developer technologies. As a UI/UX designer I got the chance to work on the VIT GRAVITAS website for 2022. I also worked on GDSCs Ideas website Revamp among other contributions",
+        "Skills": ""
+    },
+    {
+        "position": "Core Committee Member (App dev/Marketing)",
+        "place": "ADG-VIT (Apple Developers Group)",
+        "brief": "The Apple Developers Group (ADG) is a name synonymous with excellence, simplicity and dedication established under the Apple University program. As a member of the Management Team I have gathered deep insights on how to work as a team and manage events, get sponsorships and improve my communication skills. As an android developer I have a lot and helped in the frontend development for Paper-VIT , an app designed by ADG to facilitate the ease of access to VIT Question papers and study materials",
+        "Skills": "Management, Android Development"
+    }
+],
+"education" : [
+    {
+        "course":"BTech CSE",
+        "score":"8.65 CGPA",
+        "location": "VIT Vellore, Tamil Nadu"
+    },
+    {
+        "course":"12th CBSE Board (PCM) ",
+        "score": "94.6 %",
+        "location": "VIT Vellore, Tamil Nadu"
+    },
+    {
+        "course":"10th ICSE Board",
+        "score": "94.4 %",
+        "location": "VIT Vellore, Tamil Nadu"
+    }
+]
+}
